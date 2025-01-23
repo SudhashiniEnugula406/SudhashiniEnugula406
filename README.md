@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **sudhashini053@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGIxazCjUk/vHcsxFT7a6NqlwvZq8lj8A/edit?utm_content=DAGIxazCjUk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGIxazCjUk/vHcsxFT7a6NqlwvZq8lj8A/edit?utm_content=DAGIxazCjUk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences https://www.canva.com/design/DAGR37MySf4/Gz6zlo_0fsFBwWAiOB960A/edit?utm_content=DAGR37MySf4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 - ⚡ Fun fact **I love experimenting with new technologies and frameworks, always on the lookout for the latest trends in the tech world!**
 
