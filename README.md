@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Sudhashini Enugula</h1>
 <h3 align="center">Aspiring Software Developer | Eager to Learn and Contribute"</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL1DXzoRFVLEiC1mCErRVkGzHoibUWX11AFg&s"?q=gif%20for%20github%20readme%20downloadgirl%20workiing%20on%20laptop&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1024%2F1*hZJV9DjRZW9DJ4XfRwQaIA.png&imgrefurl=https%3A%2F%2Ftowardsdatascience.com%2Fexploring-data-analysis-via-natural-language-approach-1-224965d1fb16&docid=HlRjN2avwb_bcM&tbnid=RH24U8q5YXtW7M&vet=12ahUKEwiO34Ghn-uIAxXva_UHHW7ICZoQM3oECHAQAA..i&w=1024&h=1024&hcb=2&ved=2ahUKEwiO34Ghn-uIAxXva_UHHW7ICZoQM3oECHAQAA">
+<img align="right" alt="Coding" width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL1DXzoRFVLEiC1mCErRVkGzHoibUWX11AFg&s"?q=gif%20for%20github%20readme%20downloadgirl%20workiing%20on%20laptop&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1024%2F1*hZJV9DjRZW9DJ4XfRwQaIA.png&imgrefurl=https%3A%2F%2Ftowardsdatascience.com%2Fexploring-data-analysis-via-natural-language-approach-1-224965d1fb16&docid=HlRjN2avwb_bcM&tbnid=RH24U8q5YXtW7M&vet=12ahUKEwiO34Ghn-uIAxXva_UHHW7ICZoQM3oECHAQAA..i&w=1024&h=1024&hcb=2&ved=2ahUKEwiO34Ghn-uIAxXva_UHHW7ICZoQM3oECHAQAA">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhashini406&label=Profile%20views&color=0e75b6&style=flat" alt="sudhashini406" /> </p>
