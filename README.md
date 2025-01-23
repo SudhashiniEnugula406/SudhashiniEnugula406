@@ -1,6 +1,6 @@
 
 <a href="creative_github_banner.png">
-  <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y29kaW5nfGVufDB8fDB8fHww" width="800" height="200">
+  <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y29kaW5nfGVufDB8fDB8fHww" width="200" height="200">
 </a>
 
 <h1 align="center">Hi 👋, I'm Sudhashini Enugula</h1>
