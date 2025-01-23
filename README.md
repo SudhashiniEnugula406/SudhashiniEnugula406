@@ -1,5 +1,8 @@
 
-[![MasterHead](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y29kaW5nfGVufDB8fDB8fHww)](creative_github_banner.png)
+<a href="creative_github_banner.png">
+  <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y29kaW5nfGVufDB8fDB8fHww" width="800" height="200">
+</a>
+
 <h1 align="center">Hi 👋, I'm Sudhashini Enugula</h1>
 <h3 align="center">Aspiring Software Developer | Eager to Learn and Contribute"</h3>
 <img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=gif%20for%20github%20readme%20downloadgirl%20workiing%20on%20laptop&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1024%2F1*hZJV9DjRZW9DJ4XfRwQaIA.png&imgrefurl=https%3A%2F%2Ftowardsdatascience.com%2Fexploring-data-analysis-via-natural-language-approach-1-224965d1fb16&docid=HlRjN2avwb_bcM&tbnid=RH24U8q5YXtW7M&vet=12ahUKEwiO34Ghn-uIAxXva_UHHW7ICZoQM3oECHAQAA..i&w=1024&h=1024&hcb=2&ved=2ahUKEwiO34Ghn-uIAxXva_UHHW7ICZoQM3oECHAQAA">
